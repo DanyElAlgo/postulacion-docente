@@ -1,3 +1,7 @@
-public class Documento{
-    string? rutaArchivo {get;set;}
+public class DocumentoService: IDocumentoService
+{
+    public void guardarDocumento()
+    {
+        System.Console.WriteLine("El documento ser guardo correctamente");
+    }
 }
