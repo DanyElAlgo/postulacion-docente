@@ -6,7 +6,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.postulacion-docente.generated.sln
+postulacion-docente.generated.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -231,4 +231,5 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 postulacion-docente.generated.sln
+*.generated.sln
 *.sln
